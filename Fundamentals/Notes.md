@@ -10,6 +10,7 @@ blocks:
 - the storage.
 
 
+
 The compute is the brain.  It's effectively where you do the processing.
 
 The memory is where you temporarily store data.  It's like a short-term memory.
